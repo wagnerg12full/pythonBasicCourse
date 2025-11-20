@@ -102,10 +102,8 @@ nome = input("Qual é o seu nome? ")
 print("Seja bem-vindo,", nome)
 ```
 
-
-
 🧠 Exercício de Fixação (Prática Imediata)
 
 Crie um script chamado apresentacao.py.
-Use a função input() para perguntar ao usuário em qual ano ele nasceu.
-Use a função print() para exibir uma mensagem de boas-vindas e o ano digitado.
+  - Use a função input() para perguntar ao usuário em qual ano ele nasceu.
+  - Use a função print() para exibir uma mensagem de boas-vindas e o ano digitado.
