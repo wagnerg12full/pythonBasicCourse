@@ -1,26 +1,26 @@
 # Python Essencial
 
-Aqui estão todos os módulos do Curso Básico de Python - Python Essencial.
+Seja bem vindo. Aqui estão todos os módulos do Curso Básico de Python - Python Essencial.
 
 ## Módulo  I
 
-Definições
+Introdução ao Python e Ambiente de Desenvolvimento
 
 ## Módulo II 
 
-Sintaxe, operadores
+Fundamentos da Linguagem
 
 ## Módulo III 
 
-Listas e arrays
+Estruturas de Dados Simples (Coleções Nativas)
 
 ## Módulo IV
 
-Fuções e procedimentos
+Funções e Modularização
 
 ## Módulo V 
 
-Projeto final 
+Tópicos de Conclusão e Prática 
 
 
 
